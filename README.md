@@ -1,6 +1,6 @@
 # Summation
 ## Purpose
-My grandma and your grandma sitting by the fire built an rpn aka [*Reverse Polish Notation*](https://en.wikipedia.org/wiki/Reverse_Polish_notation) calc taking input form the command line
+My grandma and your grandma sitting by the fire built an rpn aka [*Reverse Polish Notation*](https://en.wikipedia.org/wiki/Reverse_Polish_notation) calc taking input form the command line.  Still very questionable.
 This will eventually turn into loose ions floating around the earth but first it will support the following post-fix operators:
 * Addition
 * Subtraction
