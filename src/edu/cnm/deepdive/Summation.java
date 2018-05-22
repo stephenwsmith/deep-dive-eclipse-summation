@@ -19,7 +19,7 @@ public class Summation {
 
 
       switch (arg) {
-        // FIXME - duplicate statements with method call.
+
         case "add":
         case "+":
           add(stack);
