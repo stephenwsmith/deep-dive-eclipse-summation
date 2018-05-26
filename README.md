@@ -8,6 +8,8 @@ This will eventually turn into loose ions floating around the earth but first it
 * Exponentiation
 * Modular Division
 
+
+
 Development will follow these steps:
 1. Read input form command line (compete).
 2. Distinguish operands and operators. (Complete)
